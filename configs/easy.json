@@ -1,0 +1,14 @@
+{
+    "grid_size": 10,
+    "robot_start": [0, 0],
+    "depot": [0, 0],
+    "energy": 60,
+    "obstacles": [
+        [2, 2], [2, 3], [3, 2],
+        [6, 6], [6, 7], [7, 6]
+    ],
+    "items": {
+        "1": {"location": [3, 5], "priority": 5},
+        "2": {"location": [7, 8], "priority": 3}
+    }
+}
