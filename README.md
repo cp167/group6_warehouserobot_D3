@@ -2,10 +2,13 @@
 
 **CS F407: Artificial Intelligence — Group Assignment D3**
 **Group 06** 
-**Team Members:**
-**Chaarvi Pruthi - 2023A7PS0555P**
-**Aditya Pannu - 2023A7PS0528P**
-**Dhruv Gupta - 2023A7PS0551P**
+**Team Members:**  
+
+**Chaarvi Pruthi - 2023A7PS0555P**  
+
+**Aditya Pannu - 2023A7PS0528P**  
+
+**Dhruv Gupta - 2023A7PS0551P**  
 
 
 ## What this is
